@@ -28,31 +28,5 @@
       "pc-gaming"
     ],
     "readTime": 8
-  },
-  {
-    "slug": "hello-world",
-    "lang": "en",
-    "title": "Hello World: Building My Portfolio",
-    "date": "2026-03-17",
-    "excerpt": "How I built this portfolio with React, Tailwind CSS, and Framer Motion — and the choices behind the stack.",
-    "tags": [
-      "react",
-      "tailwind",
-      "portfolio"
-    ],
-    "readTime": 3
-  },
-  {
-    "slug": "hello-world",
-    "lang": "it",
-    "title": "Hello World: Costruire il Mio Portfolio",
-    "date": "2026-03-17",
-    "excerpt": "Come ho costruito questo portfolio con React, Tailwind CSS e Framer Motion — e le scelte dietro lo stack.",
-    "tags": [
-      "react",
-      "tailwind",
-      "portfolio"
-    ],
-    "readTime": 3
   }
 ]
